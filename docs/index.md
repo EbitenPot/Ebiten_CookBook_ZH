@@ -5,8 +5,8 @@
 目录
 
 * [README.md](../README.md)
-* 第0单元
-    * 第一课 Hello,world!
+* [第0单元](./unit/U0/index.md)
+    * [第一课 Hello,world!](./unit/U0/class1.md)
     * 第二课 第一个能玩的游戏
     * 第二课 编译&发布
     * 第四课 是时候成为游戏开发者了

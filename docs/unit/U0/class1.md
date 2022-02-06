@@ -35,5 +35,9 @@ go env -w GOPROXY=https://goproxy.cn,direct
 
 没有报错,证明Ebiten包获取成功.
 
+### 选择一个开发工具
+您可以选择 `Vscode` , `Goland` 等IDE,也可以选择一些文本编辑器.
 
-## 2. 
+## 2. 开始写代码
+
+我们知道,
